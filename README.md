@@ -40,5 +40,5 @@ Berikut adalah gambaran kalkulatornya:
 </p>
 
 <br>
-![kalkulator](https://github.com/user-attachments/assets/cf43537c-ad29-43bc-8b2a-7780ee7c2b77)
+<img width="400" src="https://github.com/user-attachments/assets/cf43537c-ad29-43bc-8b2a-7780ee7c2b77">
 
